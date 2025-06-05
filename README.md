@@ -1,6 +1,6 @@
 # Library-Management-System
-# Reg No: 212223240142
-# Name: ROSHINI S
+# Reg No: 212223230008
+# Name: Ajina Joshpin A
 
 
 # AIM:
